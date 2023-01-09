@@ -1,0 +1,1 @@
+# Project_manufacturing_Odoo16
